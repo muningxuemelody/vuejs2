@@ -1,0 +1,92 @@
+<div class="m-index" id="m-index">
+	<header>
+		<ul>
+			<li class="yo-ico">&#xe745;</li>
+			<li></li>
+			<li class="yo-ico">&#xf0050;</li>
+		</ul>
+	</header>
+	<nav>
+		<ul>
+			<li class="active">{{x}}</li>
+			<li>足球生活</li>
+			<li>足球美女</li>
+		</ul>
+	</nav>
+	<section>
+		<ul>
+			<li>
+				<i>
+					<img src="/images/img1.png" alt="">
+				</i>
+				<b>你好你好你好你好你好你好</b>
+			</li>
+			<li>
+				<i>
+					<img src="/images/img2.jpg" alt="">
+				</i>
+				<b>你好你好你好你好你好你好</b>
+			</li>
+			<li>
+				<i>
+					<img src="/images/img3.jpg" alt="">
+				</i>
+				<b>你好你好你好你好你好你好</b>
+			</li>
+			<li>
+				<i>
+					<img src="/images/img4.jpg" alt="">
+				</i>
+				<b>你好你好你好你好你好你好你好你好你好你好你好你好</b>
+			</li>
+			<li>
+				<i>
+					<img src="/images/img1.png" alt="">
+				</i>
+				<b>你好你好你好你好你你好你好你好你好你好你好好你好你好你好你好你好你好你好</b>
+			</li>
+			<li>
+				<i>
+					<img src="/images/img2.jpg" alt="">
+				</i>
+				<b>你好你好你好你好你好你好你好你好你好你好你好你好</b>
+			</li>
+			<li>
+				<i>
+					<img src="/images/img3.jpg" alt="">
+				</i>
+				<b>你好你好你好你好你好你好你好你好你好你好你好你好</b>
+			</li>
+			<li>
+				<i>
+					<img src="/images/img4.jpg" alt="">
+				</i>
+				<b>你好你好你好你好你好你好</b>
+			</li>
+		</ul>
+	</section>
+	<footer>
+	<ul>
+				<li class="active">
+					<i class="yo-ico">&#x348d;</i>
+					<b>首页</b>
+				</li>
+				<li>
+					<i class="yo-ico">&#xe7a4;</i>
+					<b>发现</b>
+				</li>
+				<li>
+					<i class="yo-ico">&#xe604;</i>
+					<b></b>
+				</li>
+				<li>
+					<i class="yo-ico">&#xe654;</i>
+					<b>我的</b>
+				</li>
+				<li>
+					<i class="yo-ico">&#xe64a;</i>
+					<b>退出</b>
+				</li>
+			</ul>	
+	</footer>
+</div>
